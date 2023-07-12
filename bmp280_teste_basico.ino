@@ -36,7 +36,7 @@ void loop() {
  <Adafruit_BMP280.h> --> funções básicas do BMP280. Disponível em: https://github.com/adafruit/Adafruit_BMP280_Library/tree/master
  -------------------------------
  --- CIRCUITO ESQUEMÁTICO ---
- PDF disponível em OneDrive: https://etecspgov-my.sharepoint.com/:b:/g/personal/thomas_pinheiro_etec_sp_gov_br/Ef1T88NpZmtAvibh9guCwrUBXfShDAdi8tKo20gZC5-FiQ?e=36P8Y0
+ PDF disponível em OneDrive: https://etecspgov-my.sharepoint.com/:b:/g/personal/thomas_pinheiro_etec_sp_gov_br/Ef1T88NpZmtAvibh9guCwrUBGqrgjmF_XxZ_UxXuZlpBYg?e=NUvHBX
  ----------------------------
  --- MAIS INFORMAÇÕES ---
  https://www.bosch-sensortec.com/media/boschsensortec/downloads/product_flyer/bst-bmp280-fl000.pdf
